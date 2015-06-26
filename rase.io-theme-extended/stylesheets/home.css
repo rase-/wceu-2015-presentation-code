@@ -1,0 +1,39 @@
+.home .media {
+  width: 140px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
+.home .media img {
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+}
+
+.home .media a {
+  float: left;
+}
+
+.home .picture {
+ width: 300px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 80px;
+ margin-bottom: 20px;
+}
+
+.home .description {
+  clear: both;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home .circular {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  background: url(./images/me.jpeg) no-repeat;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+ }

@@ -1,0 +1,19 @@
+/*
+Theme Name: rase.io-theme
+Theme URI: http://github.com/rase-/rase.io-theme
+Author: Tony Kovanen
+Author URI: rase.io
+Description: My blog
+Version: 0.0.1
+License: MIT
+Tags: doge, wow, such, theme
+Text Domain: raseio
+
+Rase.IO is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+@import '_s.css';
+@import 'custom.css';

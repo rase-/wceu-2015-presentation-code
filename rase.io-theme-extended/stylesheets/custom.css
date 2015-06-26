@@ -1,0 +1,31 @@
+/* Shared styles */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Droid Serif', serif;
+}
+
+.main {
+  margin-top: 20px;
+}
+
+.post a {
+  color: #CC88AE;
+}
+
+.post {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post h2 a {
+  text-decoration: none;
+}
+
+@import 'home.css';
+@import 'single.css';
+@import 'list.css';
